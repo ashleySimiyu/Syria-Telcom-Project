@@ -1,2 +1,2 @@
-# Syria-Telcom-Project
-A binary classification
+# Project-3-Syria-Telcom
+a binary classification problem
