@@ -1,0 +1,10 @@
+# Vim/Emacs files
+*~
+*.swp
+
+# VSCode files
+/vscode
+
+# Datasets
+/datasets
+
