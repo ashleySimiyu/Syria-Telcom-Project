@@ -15,7 +15,7 @@ For this challenge, the project will explore various types of classification mod
 
 ### The Dataset Understanding
 
-We will use historical data from SyriaTel which contain information about customer call data obtained from ![Kaggle](https://www.kaggle.com/datasets/becksddf/churn-in-telecoms-dataset). The dataset has numerous features like user phone numbers, total calls, total call durations, state, customers churning e.t.c.distributed across 21 columns with 3333 records.
+We will use historical data from SyriaTel which contain information about customer call data obtained from [Kaggle](https://www.kaggle.com/datasets/becksddf/churn-in-telecoms-dataset). The dataset has numerous features like user phone numbers, total calls, total call durations, state, customers churning e.t.c.distributed across 21 columns with 3333 records.
 
 #### Data understanding 
 We investigated the data to identify:
