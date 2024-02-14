@@ -45,12 +45,12 @@ International plan'9.7% of the customers do use the international plans while 27
 The states with the highest churn rates include MN, NY, CT. However, there isn't a definitive explanation for why certain states outperform others in this regard, prompting a shift to analyzing regions instead.
 
 ###### Churn distribution based on the customer service calls
-![Image]('./images/churn_customer_service.png')
+![Image](/images/churn_customer_service.png)
 
 As the number of customer service calls increases, the likelihood of churning also increases. Above 4 calls, the churn rate increases.
 
 ##### Customer service calls and are codes in relation to churn
-![Images]('./images/churn_customer_service_boxplot.png')
+![Images](/images/churn_customer_service_boxplot.png)
 Churn rate based on the customer service calls and the area codes
 
 Area Code 415 & 510 have a high customer service calls which in turn have a high churn rate
@@ -126,7 +126,7 @@ By addressing these key areas, Syria Tel can create a comprehensive strategy to 
 
  
  ## For More Information
- For more info please review our full analysis in: [notebook]('./SyriaTel_Customer_Churn') and [slides]('./predicting_syriaTel_customer_churn_presentation.pdf')
+ For more info please review our full analysis in: [notebook](SyriaTel_Customer_Churn.ipynb) and [slides](predicting_syriaTel_customer_churn_presentation.pdf)
 
 
 ## Authors
