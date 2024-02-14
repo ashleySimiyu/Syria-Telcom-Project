@@ -15,7 +15,7 @@ For this challenge, the project will explore various types of classification mod
 
 ### The Dataset Understanding
 
-We will use historical data from SyriaTel which contain information about customer call data obtained from [Kaggle](https://www.kaggle.com/datasets/becksddf/churn-in-telecoms-dataset). The dataset has numerous features like user phone numbers, total calls, total call durations, state, customers churning e.t.c.distributed across 21 columns with 3333 records.
+We will use historical data from SyriaTel which contain information about customer call data obtained from ![Kaggle](https://www.kaggle.com/datasets/becksddf/churn-in-telecoms-dataset). The dataset has numerous features like user phone numbers, total calls, total call durations, state, customers churning e.t.c.distributed across 21 columns with 3333 records.
 
 #### Data understanding 
 We investigated the data to identify:
@@ -34,14 +34,14 @@ We investigated the data to identify:
 #### EDA
 International plan and Voice mail plan Usage
 
-![Image]('./images/pie_chart_int_voice_plans.png')
+![Image](images/pie_chart_int_voice_plans.png)
 
 International plan'9.7% of the customers do use the international plans while 27.7% use the voice mail plan
 
 ##### States in relation to churn
  Churn distribution based on the top 10 states
 
-![Image]('./images/top_10_states.png')
+![Image](/images/top_10_states.png)
 The states with the highest churn rates include MN, NY, CT. However, there isn't a definitive explanation for why certain states outperform others in this regard, prompting a shift to analyzing regions instead.
 
 ###### Churn distribution based on the customer service calls
